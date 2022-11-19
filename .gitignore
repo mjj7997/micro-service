@@ -23,3 +23,6 @@
 hs_err_pid*
 /micro-messagemicro-message.iml
 /.idea/
+/micro-message-api/micro-message-api.iml
+/micro-message/micro-message.iml
+/micro-service.iml

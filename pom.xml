@@ -11,12 +11,14 @@
         <relativePath/>
     </parent>
 
-    <groupId>org.example</groupId>
-    <artifactId>micro-messagemicro-message</artifactId>
+    <groupId>com.pony.baas.message</groupId>
+    <artifactId>micro-service</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>micro-message</module>
+        <module>micro-message-api</module>
     </modules>
 
     <properties>
